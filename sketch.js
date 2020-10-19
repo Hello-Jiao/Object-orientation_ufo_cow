@@ -215,3 +215,19 @@ function draw()
 
 }
 
+function CowManager()
+{
+    this.minCows = 10;
+    var cows = [];
+    this.update = function()
+    {
+        
+    }
+
+    this.draw = function()
+    {
+
+    }
+
+}
+
